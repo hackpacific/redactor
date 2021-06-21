@@ -229,7 +229,7 @@
 }
 
 // Overlay
-#redactor-overlay {
+.redactor-overlay {
     position: fixed;
     z-index: $z-index-overlay;
     top: 0;
